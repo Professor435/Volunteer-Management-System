@@ -24,4 +24,8 @@ Email notifications
 Real-time updates
 Advanced analytics dashboard
 
+#VolunteerManagement #NonProfit #NGO #CommunityService #WebDevelopment #Django #React #EventManagement #Scheduling #HRtech #SocialImpact #FullStack #Database #UserPortal #TaskAssignment #TimeTracking #Coordination #CharityTech #OpenSource #CivicTech
+
+
+
 contact for full versionaccording to your needs(professorshami435@gmail.com)
