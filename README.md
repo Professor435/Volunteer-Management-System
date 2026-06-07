@@ -28,4 +28,4 @@ Advanced analytics dashboard
 
 
 
-contact for full versionaccording to your needs(professorshami435@gmail.com)
+contact for more projects or personal FYP's(professorshami435@gmail.com)
