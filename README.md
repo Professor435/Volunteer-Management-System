@@ -9,7 +9,7 @@ A modern and user-friendly Volunteer Management System designed to efficiently m
 📅 Event Creation & Scheduling
 📝 Task Assignment & Tracking
 📊 Dashboard with Organized Data
-🔍 Search and Filter Functionality
+🔍 Search and Filter Functionality 
 📱 Responsive and User-Friendly Design
 🛠️ Technologies Used
 Frontend: HTML, CSS, Bootstrap
